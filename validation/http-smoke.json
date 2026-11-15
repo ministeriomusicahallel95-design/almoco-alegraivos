@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-15T18:43:31.619Z",
+  "mode": "local",
+  "version": "1.0.0",
+  "actualHttp": true,
+  "browserTest": false,
+  "orderCreated": true,
+  "qrImageGenerated": true,
+  "paymentSimulated": true,
+  "codeGenerated": true,
+  "deliveriesByDay": [
+    2,
+    1
+  ],
+  "savedLinkIsDraft": true,
+  "externalServicesContacted": false,
+  "note": "Fluxo HTTP local; não substitui teste visual, leitura do QR em aparelho ou integração real."
+}

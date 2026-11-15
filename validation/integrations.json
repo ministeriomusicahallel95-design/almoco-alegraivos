@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-15",
+  "mode": "local",
+  "mercadoPago": { "tokenConfigured": true, "authenticationVerifiedReadOnly": true, "chargesCreated": false, "publicWebhookConfigured": false },
+  "googleSheets": { "connected": false, "cellsModified": false, "requires": "Authorized Google service account or equivalent server integration" },
+  "hosting": { "railwaySessionAvailable": true, "linkedProject": false, "publicHttpsUrl": false },
+  "administratorSettings": { "available": true, "testsPassed": 21, "previousOrdersPreserved": true },
+  "browserVerification": "Native Chrome located; automation stopped by URL confidence security control",
+  "realPaymentsEnabled": false
+}

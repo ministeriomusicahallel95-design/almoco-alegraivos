@@ -1,0 +1,6 @@
+node_modules
+dist
+.local
+public
+package-lock.json
+validation

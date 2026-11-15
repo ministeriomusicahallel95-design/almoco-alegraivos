@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-15T19:58:00.182Z",
+  "engine": "PGlite local, PostgreSQL embutido; Fastify inject, sem rede",
+  "orders": 5000,
+  "concurrency": 100,
+  "uniqueOrders": 5000,
+  "p95CreateMs": 201,
+  "elapsedMs": 7138,
+  "paymentConfirmations": 100,
+  "concurrentDeliveryAttempts": 100,
+  "acceptedDeliveries": 1,
+  "limits": "Não mede PostgreSQL de produção, rede, hospedagem, Google, Mercado Pago nem navegador. Não representa homologação de capacidade do ambiente real."
+}

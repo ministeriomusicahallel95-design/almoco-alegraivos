@@ -1,0 +1,9 @@
+.git
+node_modules
+dist
+.local
+.env
+.env.*
+validation
+credentials*.json
+service-account*.json
